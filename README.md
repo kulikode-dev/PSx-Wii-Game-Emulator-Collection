@@ -19,7 +19,7 @@ Collection of Game Emulator (PS1, PS2, PS3, PSP, Wii, Nintendo DS) in Playnite
 7. SELESAI
 
 ## DOWNLOAD GAME EMULATOR
-Kumpulan emulator untuk(PS1, PS2, PS3, PSP, Wii, Nintendo DS telah dikompilasi melalui Playnite sehingga tidak perlu lagi melakukan setting untuk setiap emulator. Untuk mendapatkan kumpulan emulator ini silakan akses tautan berikut ini: [Download](https://produk.mayar.link/catalog/peta-indonesia-terbaru-38-provinsi-format-svg-high-ammcharts)
+Kumpulan emulator untuk PS1, PS2, PS3, PSP, Wii, Nintendo DS telah dikompilasi melalui Playnite sehingga tidak perlu lagi melakukan setting untuk setiap emulator. Untuk mendapatkan kumpulan emulator ini silakan akses tautan berikut ini: [Download](https://produk.mayar.link/catalog/peta-indonesia-terbaru-38-provinsi-format-svg-high-ammcharts)
 
 ## DOWNLOAD ROM GAME
 1. https://romsfun.com/roms/
