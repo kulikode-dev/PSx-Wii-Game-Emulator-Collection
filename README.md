@@ -8,6 +8,7 @@ Collection of Game Emulator (PS1, PS2, PS3, PSP, Wii, Nintendo DS) in Playnite
 - Emulator PSP: PPSSPP (https://www.ppsspp.org/)
 - Emulator Wii: Dolphin Emulator (https://dolphin-emu.org/)
 - Emulator Nintendo DS: DeSmuME (https://desmume.org/)
+- Etc. (added soon)
 
 ## STEPS
 1. Unduh kompilasi emulators pada bagian DOWNLOAD GAME EMULATOR, lalu Extract file "PLAYNITE + EMULATOR.ZIP" pada hardisk
