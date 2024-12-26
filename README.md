@@ -18,8 +18,35 @@ Collection of Game Emulator (PS1, PS2, PS3, PSP, Wii, Nintendo DS) in Playnite
 6. Setting Daftar Game
 7. SELESAI
 
+## Screenshots
+### 1. Add Emulators
+#### Klik Library -> Configure Emulators
+![1. Library Configure Emulators](https://github.com/kulikode-dev/PSx-Wii-Game-Emulator-Collection/blob/main/img/0.%20Configuration%20Emulator.png)
+
+### 2. Config Emulators
+#### - Klik Add pada panel sebelah kiri
+#### - Isikan kotak Name, Installation Folder, Emulator Specifications (sesuai list emulator sebelumnya)
+#### - Klik Add pada profiles dan pilih default, kemudian klik tombol save
+#### - Ulangi langkah di atas untuk emulator selanjutnya
+![2. Config Emulators](https://github.com/kulikode-dev/PSx-Wii-Game-Emulator-Collection/blob/main/img/0.%20Add%20Emulator.png)
+
+### 3. Add Game Library
+#### Klik Add Game -> Emulated Game
+![3. Add Game](https://github.com/kulikode-dev/PSx-Wii-Game-Emulator-Collection/blob/main/img/1.%20Config%20Emulator.png)
+
+### 4. Add Scanners
+#### Klik Tombol Add scanner
+![4. Add Scanner](https://github.com/kulikode-dev/PSx-Wii-Game-Emulator-Collection/blob/main/img/2.%20Add%20Scanner.png)
+
+### 5. Add Scanners
+#### Pilih pada dropdown "scan with emulator" sesuai emulator yang telah diinput sebelumnya
+#### Pilih pada dropdown "profile" sesuai emulator yang telah diinput sebelumnya
+#### Isikan scan folder dengan lokasi dimana game disimpan
+#### Klik tombol start scan untuk mulai menambahkan game yang telah diunduh ke dalam aplikasi Playnite, atau klik add scan kembali untuk menambahkan sekaligus pengaturan sesuai emulator yang telah ditambahkan sebelumnya
+![5. Start Scanner](https://github.com/kulikode-dev/PSx-Wii-Game-Emulator-Collection/blob/main/img/3.%20Start%20Scan.png)
+
 ## DOWNLOAD GAME EMULATOR
-Kumpulan emulator untuk PS1, PS2, PS3, PSP, Wii, Nintendo DS telah dikompilasi melalui Playnite sehingga tidak perlu lagi melakukan setting untuk setiap emulator. Untuk mendapatkan kumpulan emulator ini silakan akses tautan berikut ini: [Download](https://produk.myr.id/catalog/game-emulator-ps1-ps2-ps3-psp-wii-nintendo-ds-in-playnite)
+Jika Kamu tidak mau repot melakukan proses di atas, unduh segera kumpulan emulator untuk PS1, PS2, PS3, PSP, Wii, Nintendo DS melalui Playnite pada tautan berikut, sehingga Kamu tidak perlu lagi melakukan setting untuk setiap emulator. Untuk mendapatkan kumpulan emulator ini silakan memberikan kontribusi melalui akses tautan berikut ini: [Download](https://produk.myr.id/catalog/game-emulator-ps1-ps2-ps3-psp-wii-nintendo-ds-in-playnite)
 
 ## DOWNLOAD ROM GAME
 1. https://romsfun.com/roms/
