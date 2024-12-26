@@ -49,9 +49,10 @@ Collection of Game Emulator (PS1, PS2, PS3, PSP, Wii, Nintendo DS) in Playnite
 Jika Kamu tidak mau repot melakukan proses di atas, unduh segera kumpulan emulator untuk PS1, PS2, PS3, PSP, Wii, Nintendo DS melalui Playnite pada tautan berikut, sehingga Kamu tidak perlu lagi melakukan setting untuk setiap emulator. Untuk mendapatkan kumpulan emulator ini silakan memberikan kontribusi melalui akses tautan berikut ini: [Download](https://produk.myr.id/catalog/game-emulator-ps1-ps2-ps3-psp-wii-nintendo-ds-in-playnite)
 
 ## DOWNLOAD ROM GAME
-1. https://romsfun.com/roms/
-2. https://cdromance.org/
-
+1. https://romsfun.com/roms/ (1st recommended)
+2. https://cdromance.org/ (2nd recommended)
+3. https://www.romspedia.com/
+   
 ## 💡 Credits
 - Playnite [Playnite.link](https://playnite.link/)
 - Emulator PS 1: ePSXe (https://www.epsxe.com/download.php)
