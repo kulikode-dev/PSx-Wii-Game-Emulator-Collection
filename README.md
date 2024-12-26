@@ -10,8 +10,8 @@ Collection of Game Emulator (PS1, PS2, PS3, PSP, Wii, Nintendo DS) in Playnite
 - Emulator Nintendo DS: DeSmuME (https://desmume.org/)
 
 ## STEPS
-1. Extract file "PLAYNITE + EMULATOR.ZIP"
-2. Unduh rom game yang akan dimainkan pada tautan sebelumnya, lalu letakkan pada folder GAME LIBRARY sesuai dengan jenis emulator
+1. Unduh kompilasi emulators pada bagian DOWNLOAD GAME EMULATOR, lalu Extract file "PLAYNITE + EMULATOR.ZIP" pada hardisk
+2. Unduh rom game yang akan dimainkan pada tautan DOWNLOAD ROM GAME di bawah, lalu letakkan pada folder GAME LIBRARY sesuai dengan jenis emulator
 3. Jalankan aplikasi Playnite pada folder Playnite -> Playnite.DesktopApp.exe
 4. Lakukan konfigurasi emulator dan folder game pada Playnite dengan cara:
 5. Setting Daftar Emulator
