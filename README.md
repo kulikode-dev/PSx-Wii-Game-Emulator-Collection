@@ -49,7 +49,7 @@ Jika Kamu tidak mau repot melakukan proses di atas, unduh segera kumpulan emulat
 ## DOWNLOAD ROM GAME
 1. https://romsfun.com/roms/ (1st recommended)
 2. https://cdromance.org/ (2nd recommended)
-3. https://www.romspedia.com/
+3. https://www.romspedia.com/ (3rd recommended)
    
 ## 💡 Credits
 - Playnite [Playnite.link](https://playnite.link/)
